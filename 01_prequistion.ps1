@@ -45,6 +45,7 @@ If (Test-Path $BootVersionFile)
 $SupportModels = @(
 "Latitude 5410",
 "Latitude 5420",
+"Latitude 5430",
 "Latitude 5440",
 "Latitude 7330",
 "Latitude 7340",
